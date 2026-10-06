@@ -146,19 +146,19 @@ async def get_events(cached_keys: KeysView[str]) -> list[MPEvent]:
 
 
 async def scrape() -> None:
-    cached_urls = CACHE_FILE.load()
+    cached_sources = CACHE_FILE.load()
 
-    valid_urls = {k: v for k, v in cached_urls.items() if v["source"]}
+    valid_sources = {k: v for k, v in cached_sources.items() if v["source"]}
 
-    valid_count = cached_count = len(valid_urls)
+    valid_count = cached_count = len(valid_sources)
 
-    urls.update(valid_urls)
+    urls.update(valid_sources)
 
     log.info(f"Loaded {cached_count} event(s) from cache")
 
     log.info('Scraping from "https://mainportal66.com"')
 
-    if events := await get_events(cached_urls.keys()):
+    if events := await get_events(cached_sources.keys()):
         log.info(f"Processing {len(events)} new URL(s)")
 
         for i, ev in enumerate(events, start=1):
@@ -189,7 +189,7 @@ async def scrape() -> None:
                 "tvg-id": tvg_id or "Live.Event.us",
             }
 
-            cached_urls[key] = entry
+            cached_sources[key] = entry
 
             if source:
                 valid_count += 1
@@ -201,4 +201,4 @@ async def scrape() -> None:
     else:
         log.info("No new events found")
 
-    CACHE_FILE.write(cached_urls)
+    CACHE_FILE.write(cached_sources)

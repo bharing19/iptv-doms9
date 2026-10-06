@@ -141,8 +141,8 @@ async def get_events() -> list[Event]:
 
 
 async def scrape() -> None:
-    if cached_urls := CACHE_FILE.load():
-        urls.update({k: v for k, v in cached_urls.items() if v["source"]})
+    if cached_sources := CACHE_FILE.load():
+        urls.update({k: v for k, v in cached_sources.items() if v["source"]})
 
         log.info(f"Loaded {len(urls)} event(s) from cache")
 
@@ -179,7 +179,7 @@ async def scrape() -> None:
                 "tvg-id": tvg_id or "Live.Event.us",
             }
 
-            cached_urls[key] = entry
+            cached_sources[key] = entry
 
             if source:
                 urls[key] = entry
@@ -189,4 +189,4 @@ async def scrape() -> None:
     else:
         log.info("No events found")
 
-    CACHE_FILE.write(cached_urls)
+    CACHE_FILE.write(cached_sources)

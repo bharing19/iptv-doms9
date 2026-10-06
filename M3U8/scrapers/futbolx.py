@@ -105,19 +105,19 @@ async def get_events(cached_keys: KeysView[str]) -> dict[str, dict[str, str | fl
 
 
 async def scrape() -> None:
-    cached_urls = CACHE_FILE.load()
+    cached_sources = CACHE_FILE.load()
 
     valid_count = len(
-        valid_urls := {k: v for k, v in cached_urls.items() if v["source"]}
+        valid_sources := {k: v for k, v in cached_sources.items() if v["source"]}
     )
 
-    urls.update(valid_urls)
+    urls.update(valid_sources)
 
     log.info(f"Loaded {valid_count} event(s) from cache")
 
     log.info(f'Scraping from "{BASE_URL}"')
 
-    urls.update(await get_events(cached_urls.keys()))
+    urls.update(await get_events(cached_sources.keys()))
 
     (
         log.info(f"Collected and cached {new_count} new event(s)")

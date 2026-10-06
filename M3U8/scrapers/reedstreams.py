@@ -139,13 +139,13 @@ async def get_events(cached_keys: KeysView[str]) -> list[REEDEvent]:
 
 
 async def scrape() -> None:
-    cached_urls = CACHE_FILE.load()
+    cached_sources = CACHE_FILE.load()
 
-    valid_urls = {k: v for k, v in cached_urls.items() if v["source"]}
+    valid_sources = {k: v for k, v in cached_sources.items() if v["source"]}
 
-    valid_count = cached_count = len(valid_urls)
+    valid_count = cached_count = len(valid_sources)
 
-    urls.update(valid_urls)
+    urls.update(valid_sources)
 
     base_url = network.ensure_https(f"//{BASE_DOMAIN}")
 
@@ -153,7 +153,7 @@ async def scrape() -> None:
 
     log.info(f'Scraping from "{base_url}"')
 
-    if events := await get_events(cached_urls.keys()):
+    if events := await get_events(cached_sources.keys()):
         log.info(f"Processing {len(events)} new URL(s)")
 
         for i, ev in enumerate(events, start=1):
@@ -183,7 +183,7 @@ async def scrape() -> None:
                 "link": ev.link,
             }
 
-            cached_urls[key] = entry
+            cached_sources[key] = entry
 
             if source:
                 valid_count += 1
@@ -195,4 +195,4 @@ async def scrape() -> None:
     else:
         log.info("No new events found")
 
-    CACHE_FILE.write(cached_urls)
+    CACHE_FILE.write(cached_sources)

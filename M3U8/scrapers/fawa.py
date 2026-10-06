@@ -62,15 +62,15 @@ async def get_events(cached_links: set[str]) -> list[Event]:
 
 
 async def scrape(browser: Browser) -> None:
-    cached_urls = CACHE_FILE.load()
+    cached_sources = CACHE_FILE.load()
 
-    cached_links = {entry["link"] for entry in cached_urls.values()}
+    cached_links = {entry["link"] for entry in cached_sources.values()}
 
-    valid_urls = {k: v for k, v in cached_urls.items() if v["source"]}
+    valid_sources = {k: v for k, v in cached_sources.items() if v["source"]}
 
-    valid_count = cached_count = len(valid_urls)
+    valid_count = cached_count = len(valid_sources)
 
-    urls.update(valid_urls)
+    urls.update(valid_sources)
 
     log.info(f"Loaded {cached_count} event(s) from cache")
 
@@ -112,7 +112,7 @@ async def scrape(browser: Browser) -> None:
                         "link": ev.link,
                     }
 
-                    cached_urls[key] = entry
+                    cached_sources[key] = entry
 
                     if source:
                         valid_count += 1
@@ -124,4 +124,4 @@ async def scrape(browser: Browser) -> None:
     else:
         log.info("No new events found")
 
-    CACHE_FILE.write(cached_urls)
+    CACHE_FILE.write(cached_sources)
