@@ -111,7 +111,7 @@ async def main() -> None:
 
             hdl_brwsr = await network.browser(p)
 
-            xtrnl_brwsr = await network.browser(p, external=True)
+            # xtrnl_brwsr = await network.browser(p, external=True)
 
             pw_tasks = [
                 asyncio.create_task(sportspass.scrape(hdl_brwsr)),
@@ -145,7 +145,7 @@ async def main() -> None:
         finally:
             await hdl_brwsr.close()
 
-            await xtrnl_brwsr.close()
+            # await xtrnl_brwsr.close()
 
             await network.client.aclose()
 
