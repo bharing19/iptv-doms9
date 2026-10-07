@@ -89,10 +89,10 @@ async def get_events(cached_keys: KeysView[str]) -> list[DAMIEvent]:
 
         name, sport, start_ts, stream_id = values
 
-        if stream_id.lower().startswith("dl-"):
+        if stream_id.lower().startswith(("dl-", "247")):
             continue
 
-        elif stream_id.startswith("247") or sport.startswith("24/7"):
+        elif sport.startswith("24/7"):
             continue
 
         sport = (
