@@ -233,7 +233,7 @@ https://11.ftlly.com:443/even1/mono.m3u8?token=ac1b4e7ee122ad168b090c0a995ab562b
 #EXTINF:-1 tvg-chno="47" tvg-id="Racing.Dummy.us" tvg-name="[Dirtvision] 10.8.26 | Oswego Speedway (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/08/21/SDW_3-1787331866488.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="Live Events",[Dirtvision] 10.8.26 | Oswego Speedway (TIMSTRM)
 #EXTVLCOPT:http-referrer=https://grandemx.org/rr5wtqz0-6456
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/d2b0ecf03c7cd58460301d62576ab8feee546f944e2f44e6ee11d395d702b7b8/1791487820/dirtvision-10-8-26-oswego-speedway.m3u8
+https://justkidding.junksonus.party/main/secure/8f0536388e6f66735bfd9894af5084c2eaab216975e5e59fdacf9c42cb420fdf/1791495003/dirtvision-10-8-26-oswego-speedway.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[Egypt Premier League] Al Ittihad vs Wadi Degla (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/egypt/1500x1500/egyptian-premier-league.9574aa34.png" group-title="Live Events",[Egypt Premier League] Al Ittihad vs Wadi Degla (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -485,7 +485,7 @@ http://193.47.62.41/hls/NNNNA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/NNNNAA.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-id="Live.Event.us" tvg-name="[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)
+#EXTINF:-1 tvg-chno="98" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live Events",[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/zooooqqqq.m3u8
@@ -685,112 +685,117 @@ https://c2f2zQ.fubo18.com:443/futv/mono.m3u8?token=ab64d84bc17eb5cc088bb2762daab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/diiii.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="[Qatar QSL] Shamal vs Al Duhail (FAWA)" tvg-logo="https://www.qsl.qa/sites/default/files/2021-09/QSL_Logo_Port_CMYK3.png" group-title="Live Events",[Qatar QSL] Shamal vs Al Duhail (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/diiiiqqqq.m3u8
-
-#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=tntsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://a2lja3m.fubo18.com:443/tntsports/mono.m3u8?token=2e189bee243bdf8c1078b5a8161ba98f098cdfb0-4e-1791501320-1791483320
 
-#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Superliga] CFR Cluj vs U Cluj (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/189.png" group-title="Live Events",[Romania Superliga] CFR Cluj vs U Cluj (FAWA)
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Superliga] CFR Cluj vs U Cluj (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/189.png" group-title="Live Events",[Romania Superliga] CFR Cluj vs U Cluj (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/veee.m3u8
 
-#EXTINF:-1 tvg-chno="141" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Division 1] Al Okhdood vs Al Ula (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Saudi_First_Division_League_Logo.svg/330px-Saudi_First_Division_League_Logo.svg.png" group-title="Live Events",[Saudi Division 1] Al Okhdood vs Al Ula (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/diiiiqqq.m3u8
-
-#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Live Events",[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Live Events",[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://am91cm5leQ.fubo18.com:443/premiere6/mono.m3u8?token=8458cb4b388fa6044fd6854a5672265e291f4b1a-97-1791501321-1791483321
 
-#EXTINF:-1 tvg-chno="143" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Timra vs Frolunda (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Timra vs Frolunda (FAWA)
+#EXTINF:-1 tvg-chno="141" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Brynas vs IF Bjorkloven (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Brynas vs IF Bjorkloven (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZFFF.m3u8
+
+#EXTINF:-1 tvg-chno="142" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Djurgarden vs Orebro (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Djurgarden vs Orebro (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZFFFQ.m3u8
+
+#EXTINF:-1 tvg-chno="143" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Lulea vs Malmo (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Lulea vs Malmo (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZFFFQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="144" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Rogle vs HV 71 (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Rogle vs HV 71 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZFFFQQ.m3u8
+
+#EXTINF:-1 tvg-chno="145" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Skelleftea vs Farjestad (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Skelleftea vs Farjestad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZFFFQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="146" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Timra vs Frolunda (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Timra vs Frolunda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/ZFFFQQQAQ.m3u8
 
-#EXTINF:-1 tvg-chno="144" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Vaxjo vs Linkoping (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Vaxjo vs Linkoping (FAWA)
+#EXTINF:-1 tvg-chno="147" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Vaxjo vs Linkoping (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live Events",[Sweden Hockey SHL] Vaxjo vs Linkoping (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/ZFFFQQQAAQ.m3u8
 
-#EXTINF:-1 tvg-chno="145" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)
+#EXTINF:-1 tvg-chno="148" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=cdc7fb3c8abd6a68e396bb6daa52a6cad154beff-7f-1791497713-1791479713
 
-#EXTINF:-1 tvg-chno="146" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)
+#EXTINF:-1 tvg-chno="149" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=13bee95b0f4faeab6f40e60083a761cce5dcf6fb-62-1791497714-1791479714
 
-#EXTINF:-1 tvg-chno="147" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="150" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://4.ftlly.com:443/espn2/mono.m3u8?token=80f4403a8f278eebaad00c275624b92af1100a64-2c-1791497713-1791479713
 
-#EXTINF:-1 tvg-chno="148" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="151" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://4.ftlly.com:443/espn2/mono.m3u8?token=1136599818b57fc6d4f5374ed9b2ac41d2fc3ac3-5d-1791497713-1791479713
 
-#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://dglvz29s.fubo18.com:443/espn2/mono.m3u8?token=9322310469d9d50db3184e86cbd3f37bda8fd7df-58-1791497709-1791479709
 
-#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=c6ad36faa1aa5646e4d3bc82372774c96b27ee6f-84-1791497709-1791479709
 
-#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://10.ftlly.com:443/espn2/mono.m3u8?token=d9cf6c0918302eaf5176cc3757a580224197aa5e-fe-1791497709-1791479709
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://2.ftlly.com:443/espn2/mono.m3u8?token=0609a7ef076a566840337fe8c983e38e2c81ef80-4b-1791497709-1791479709
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)
+#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=tntsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://3.ftlly.com:443/tntsports/mono.m3u8?token=0a9de08ec8e6747d1122804914eb218c30486010-eb-1791497712-1791479712
 
-#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tntsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://am91cm5leQ.fubo18.com:443/tntsports/mono.m3u8?token=98c02a10253d8faff41ccfdf9af30c80ceab3e8f-82-1791497712-1791479712
 
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="158" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=tntsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://6.ftlly.com:443/tntsports/mono.m3u8?token=a4cf5996e04573c8a832e7b413d3d88f77b34cd3-30-1791497713-1791479713
 
-#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Cup] Denizli IY Gureller vs Serik Spor (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live Events",[Turkey Cup] Denizli IY Gureller vs Serik Spor (FAWA)
+#EXTINF:-1 tvg-chno="159" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Cup] Denizli IY Gureller vs Serik Spor (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live Events",[Turkey Cup] Denizli IY Gureller vs Serik Spor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/NVVV.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live Events",[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)
+#EXTINF:-1 tvg-chno="160" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live Events",[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/NVVV.m3u8
-
-#EXTINF:-1 tvg-chno="158" tvg-id="Soccer.Dummy.us" tvg-name="[UAE League Cup] Al Nasr vs Hatta (FAWA)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/4wr6ey1787938819.png" group-title="Live Events",[UAE League Cup] Al Nasr vs Hatta (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/zooooq.m3u8
-
-#EXTINF:-1 tvg-chno="159" tvg-id="Soccer.Dummy.us" tvg-name="[UAE League Cup] Khorfakkan vs Al Wasl (FAWA)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/4wr6ey1787938819.png" group-title="Live Events",[UAE League Cup] Khorfakkan vs Al Wasl (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/zooooqq.m3u8
