@@ -31,9 +31,10 @@ SERVERS = [
     # "https://tokenized.b-cdn.net/",
     # "https://xyzstreams.space/",
     # "https://eu-hlss2.b-cdn.net/",
-    "https://hlss2.b-cdn.net/",
+    # "https://hlss2.b-cdn.net/",
     "https://us2-hlss2.b-cdn.net/",
     "https://hls.fancy-shark151.workers.dev/",
+    "https://eu-4605069466.duckdns.org",
 ]
 
 KEY = "TXlTdXBlclNlY3JldEtleTEyMyE="
