@@ -41,7 +41,7 @@ async def process_event(stream_id: str, url_num: int) -> str | None:
         log.warning(f"URL {url_num}) Unsuccessful Request: {api_data.get("error")}")
         return
 
-    if not (m3u8 := api_data.get("hlsUrl", api_data.get("sdUrl"))):
+    if not (m3u8 := api_data.get("sdUrl")):
         log.warning(f"URL {url_num}) No source found.")
         return
 
